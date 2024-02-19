@@ -4,4 +4,5 @@ import processing.core.PApplet;
 
 public class Life extends PApplet{
     
+    public
 }
